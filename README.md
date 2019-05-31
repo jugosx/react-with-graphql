@@ -1,6 +1,28 @@
-# ReactJS with Graphql
-Konsumsi Graphql dengan ReactJS
+# Basic Project Graphql with ReactJS
+## Persiapan
+- Node
+- NPM
+
+> NOTE: The instructions that follow me.
+
+## Requirements
+
+Please be aware that in production environments.
+> Note
+## Setting up Server
+
+```
+Perintah
+```
+### 1. Sub Bab.
+
+### 2. Add and Update Required plugins
+
+### 3. Copy the pipeline files to the Logstash configuration path.
+
+## Environment Variable Reference
 
 
-### Persiapan Server
- - Install NodeJS + NPM
+## END
+
+This end
