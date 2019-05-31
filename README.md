@@ -1,2 +1,2 @@
-# react-with-graphql
+# ReactJS with Graphql
 Konsumsi Graphql dengan ReactJS
