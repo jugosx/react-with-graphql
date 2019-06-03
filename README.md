@@ -8,7 +8,7 @@
 ## Requirements
 
 Please be aware that in production environments.
-> Note
+> NOTE: Follow the instructions
 ## Setting up Server
 
 ```
