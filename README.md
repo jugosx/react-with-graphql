@@ -12,7 +12,7 @@ Please be aware that in production environments.
 ## Setting up Server
 
 ```
-Contoh Command
+Perintah
 ```
 ### 1. Sub Bab.
 
