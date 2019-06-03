@@ -19,8 +19,6 @@ Perintah
 
 ### 2. Add and Update Required plugins
 
-### 3. Copy the pipeline files to the Logstash configuration path.
-
 ### Environment Variable Reference
 
 
