@@ -13,3 +13,5 @@ npm init
 ```
 npm install express express-graphql graphql --save
 ```
+### Screenshot
+<img src="screenshot/list-data-graphql.png">
