@@ -7,21 +7,13 @@
 
 ## Requirements
 
-Please be aware that in production environments.
+Jangan Lupa install nodemon
 > NOTE: Follow the instructions
 ## Setting up Server
 
 ```
-Perintah
+npm init
 ```
-
-### 1. Sub Bab.
-
-### 2. Add and Update Required plugins
-
-### Environment Variable Reference
-
-
-### END
-
-This end
+```
+npm install express express-graphql graphql --save
+```
