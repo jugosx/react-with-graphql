@@ -3,12 +3,8 @@
 - Node
 - NPM
 
-> NOTE: The instructions that follow me.
-
 ## Requirements
-
-Jangan Lupa install nodemon
-> NOTE: Follow the instructions
+> NOTE: Jangan Lupa install nodemon
 ## Setting up Server
 
 ```
